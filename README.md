@@ -1,7 +1,7 @@
 # MonetelliSoft.MyDesignDocumentation
 
 
-Made by [Daniel A. Monetelli L.](https://github.com/monetelli) Xamarin Mobile Developer
+Made by [Daniel A. Monetelli L.](https://github.com/monetelli) Xamarin Mobile Developer, UI/UX Architect
 
 ---
 
